@@ -1,0 +1,58 @@
+#container {
+    width: 960px;
+    height: 960px;
+    background-color:lightblue;
+    margin: 0px auto;
+    
+}
+
+#header{
+    display: inline-block;
+    
+}
+#trader{
+    height: 250px;
+    padding: 10px;
+}
+#header{
+    vertical-align: top;
+    width: 500px;
+    margin-left: 30px;
+}
+#purpose{
+    font-size: 20px;
+}
+#question{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+#definition{
+    font-size: 16px;
+    margin-top: 5px;
+}
+.chart{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    height: 485px;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 2px;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+p{
+    font-size: 14px;
+}
+h2{
+    /* text-align: center; */
+}
+.disclaimer{
+    text-align: center;
+    background-color: yellow;
+}
+#thanks{
+    text-align: center;
+}
